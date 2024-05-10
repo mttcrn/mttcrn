@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @mttcrn
+- 👋 Hi, I’m Caterina
 - 👀 I’m interested in cybersecurity and AI
 - 🌱 I’m currently learning computer science engineering at Polimi
+- :tulip: Take a look at my website [here](https://mttcrn.github.io)
